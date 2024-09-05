@@ -1,4 +1,4 @@
-# Titanic
+# Titanic Survival Rate
 **Data Science  
 Titanic Survival Prediction**
 This project aims to predict survival outcomes for passengers on the Titanic using various machine learning algorithms. The dataset used is the famous Titanic dataset, which includes information about passengers such as age, sex, class, and more.
